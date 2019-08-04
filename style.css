@@ -1,0 +1,36 @@
+
+body {
+    background-color: white;
+    height: 500%;
+    width: 100%;
+}
+li {
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.navbar {
+    background: linear-gradient(#353434, black);
+}
+.circleRow {
+    background: linear-gradient(#353434, black);
+    height: 150px;
+    opacity: .6;
+}
+.carousel {
+    background-color: #8d8a8a2f;
+}
+.bigButtons {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20vw;
+    width: 100%;
+    display: block;
+}
+img {
+  box-shadow: 7px 7px 7px gray;  
+  margin-left: 13vw;
+  max-height: 75vh;  
+  margin-bottom: 3rem;
+}
